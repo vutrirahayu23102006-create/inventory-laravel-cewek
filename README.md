@@ -114,7 +114,7 @@ Screenshot aplikasi disimpan pada folder `screenshots`, meliputi:
 
 ## 9. Pengembang
 
-Nama: [Isi nama mahasiswa]
+Nama: Vutri Rahayu
 
 Program Studi: Sistem Informasi
 
